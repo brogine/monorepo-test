@@ -1,0 +1,3 @@
+[submodule "packages/monorepo-library"]
+	path = packages/monorepo-library
+	url = git@github.com:brogine/monorepo-library.git
